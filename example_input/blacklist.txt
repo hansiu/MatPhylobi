@@ -1,0 +1,12 @@
+229814600 # You can also leave a comment here!
+291167245
+670046724
+AM168446.1
+AM168447.1
+574456654 # A GI number
+57232326
+AY188406.1
+KC295087.1
+AM167919.1
+AM167920.1
+AF077886.1 # An accession.version number
